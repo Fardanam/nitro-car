@@ -136,7 +136,7 @@ nav {
    untuk pengguna vscode silahkan arahkan mouse ke kotak warna di bawah
    untuk mengganti warna sesuai keinginan
    */
-    background-color: #2421bb;
+    background-color: #090927;
     text-align: justify;
 
     /* box-shadow membuat efek bayangan */
@@ -256,7 +256,7 @@ section.best-seller {
     position: relative;
 
     /* background-color mengatur warna latar belakang elemen */
-    background-color: #EEE6DC;
+    background-color: #97938e;
 
     /* text-align mengatur rata tulisan, bisa bernilai: left, right, center, justify */
     text-align: center;
